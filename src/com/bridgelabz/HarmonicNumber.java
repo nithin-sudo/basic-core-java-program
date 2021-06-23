@@ -1,6 +1,10 @@
 package com.bridgelabz;
 import java.util.Scanner;
 public class HarmonicNumber {
+    /**
+     * taking the input from the user and printing Nth Harmonic value.
+     * @param args
+     */
     public static void main(String[] args){
         int initialValue=1;
         double harmonicNumber=0;
